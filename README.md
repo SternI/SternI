@@ -10,7 +10,7 @@
 
 ### What I Work With
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,js,html,css,dotnet,unreal,github,git&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,dotnet,unreal,github,git,vscode,visualstudio,rider,windows&theme=dark&perline=5)](https://skillicons.dev)
 
 `C / C++` &nbsp;·&nbsp; `C#` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `HTML / CSS`
 `Unreal Engine` &nbsp;·&nbsp; `.NET` &nbsp;·&nbsp; `Git / GitHub` &nbsp;·&nbsp; `Kernel Drivers` &nbsp;·&nbsp; `Reverse Engineering`
